@@ -1,0 +1,31 @@
+.head{
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+.icon-left{
+    float: left;
+    padding: 2rem 2rem 1rem 1rem;
+}
+.head-main{
+    padding: 3rem;
+}
+.button{
+    padding: 0;
+    width: 100%;
+}
+.active{
+    
+}
+.text{
+    padding: 2rem 0;
+}
+.info{
+    background-color: lightgrey;
+    padding: 3rem 2rem 2rem 0;
+}
+.headinfo{
+    text-align: center;
+    padding-bottom: 2rem;
+    font-weight: 900;
+}

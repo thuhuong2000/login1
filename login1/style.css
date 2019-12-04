@@ -1,0 +1,33 @@
+.all{
+    background-color: lightgrey;
+    padding: 0px;
+    margin: 0px;
+}
+.menu{
+    text-align: center;
+    padding: 2rem 1rem;
+}
+.icon-left{
+    float: left;
+}
+.box{
+    background-color: white;
+    padding: 3em 1em;
+}
+.head{
+    text-align: center;
+    padding-bottom: 2rem;
+}
+.agree{
+    text-align: center;
+    line-height: 1.5;
+    font-size: 90%;
+    padding: 1rem;
+
+}
+.continue{
+    padding: 4rem 1rem 1rem 3rem;
+    padding-left: 0px;
+    padding-right: 0px;
+    
+}
